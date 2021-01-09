@@ -1,5 +1,5 @@
 {
-  "name": "socialicon",
+  "name": "@riverzhou/socialicon",
   "version": "1.0.0",
   "description": "socialicon for github zhihu weibo netease boke ",
   "main": "iconfont.js",
