@@ -1,0 +1,20 @@
+{
+  "name": "socialicon",
+  "version": "1.0.0",
+  "description": "socialicon for github zhihu weibo netease boke ",
+  "main": "iconfont.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/riverzhou/socialicon"
+  },
+  "keywords": [
+    "chinese",
+    "social",
+    "icon"
+  ],
+  "author": "River Zhou",
+  "license": "ISC"
+}
