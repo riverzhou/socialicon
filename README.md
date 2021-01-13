@@ -1,5 +1,8 @@
 # socialicon
- 
+
+![version-v1.0.0](https://img.shields.io/badge/version-v1.0.0-yellow.svg) ![license-MIT](https://img.shields.io/badge/license-MIT-green.svg)   
+[![NPM](https://nodei.co/npm/@riverzhou/socialicon.png)](https://npmjs.org/package/@riverzhou/socialicon)
+
 socialicon for 
 - github 
 - zhihu 
