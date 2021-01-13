@@ -1,8 +1,6 @@
 # socialicon
 
-![](https://img.shields.io/npm/v/@riverzhou/socialicon) ![](https://img.shields.io/npm/l/@riverzhou/socialicon)
-
-[![](https://img.shields.io/badge/version-v1.0.0-yellow.svg)](#) [![license-MIT](https://img.shields.io/badge/license-MIT-green.svg)](#)
+![![](https://img.shields.io/npm/v/@riverzhou/socialicon))(https://www.npmjs.com/package/@riverzhou/socialicon) ![![](https://img.shields.io/npm/l/@riverzhou/socialicon)](#)
   
 ---
 
